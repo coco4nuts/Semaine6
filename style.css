@@ -1,0 +1,56 @@
+/*-------------------- Page ------------------*/
+
+body {
+    background-image: url('images_cv/green_cup.png');
+    background-repeat: repeat;
+    background-attachment: fixed;
+    padding: 0;
+    margin: 0;
+}
+/*-------------------- Header ------------------*/
+
+header {
+    box-shadow: 5px 5px 2px grey;
+    margin: 0;
+
+    background-image: url('images_cv/symphony.png');
+    background-repeat: repeat;
+    background-attachment: fixed;
+
+    color: grey;
+    font-family: Helvetica, sans-serif;
+}
+img {
+    margin: 20px;
+}
+.titre {
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+/*--------------------- Main -------------------*/
+.texte {
+    min-width: 150px;
+    vertical-align: top;
+    padding: 10px;
+    
+    text-align: ;
+}
+
+/*-------------------- Footer ------------------*/
+
+footer {
+    margin: 0;
+    height: 470px;
+    box-shadow: 5px -5px 2px grey;
+    
+    background-image: url('images_cv/symphony.png');
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+footer p {
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+}

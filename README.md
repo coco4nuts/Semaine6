@@ -1,2 +1,7 @@
 # Semaine6
-Exercice Simplonline semaine 6 : Twitter Bootstrap dans CV + Intégration d'une maquette
+--------------
+###Exercices Simplonline semaine 6 : Bootstrap
+
+* Intégrer Twitter Bootstrap dans le CV en ligne.
+
+* Intégration d'une maquette avec Bootstrap

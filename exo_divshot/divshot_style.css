@@ -6,28 +6,35 @@ background-color: #3f4342;
 /*------------------ Header ---------------------*/
 header {
     width: 100%;
-    height: 100px;
-    margin-bottom:3px;
+    height: 92px;
+    margin-bottom:6px;
     background-color: #37bbd2;
 }
 h1 {
     display: inline-block;
     color: #fff;
     font-size: 1.5em;
+    margin-top: 40px;
 }
 /*------------------ Images ---------------------*/
 .big {
     position: relative;
     height: 500px;
-    margin: 3px;
+    margin: 4px;
 }
 .small {
     position: relative;
     height: 250px;
+    margin: 0px;
 }
-row, col-md-4, col-md-6 {
+row, col-md-4, col-md-6, col-md-12 {
     margin: 0;
     padding:0;
+}
+main img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /*------------------ Buttons ---------------------*/
@@ -39,7 +46,7 @@ a {
     width: 100%;
     height: 60px;
     color: #fff;
-    font-size: 1.3em;
+    font-size: 1.4em;
 }
 
 p, span {
@@ -48,16 +55,20 @@ p, span {
 }
 /*------------------ Colors ---------------------*/
 .white { background-color: #fff;}
-
 .grey { background-color: #999;}
+
 .red { background-color: #f9897d;}
 .dark-red { background-color: #f8504d;}
+
 .violet { background-color: #b483ff;}
 .dark-violet { background-color: #7f56c6;}
+
 .green { background-color: #b7f6c9;}
 .dark-green { background-color: #34ebb3;}
+
 .yellow { background-color: #fbff86;}
 .dark-yellow { background-color: #fbed1a;}
+
 .blue { background-color: #7efeff;}
 .dark-blue { background-color: #3ea8f6;}
 

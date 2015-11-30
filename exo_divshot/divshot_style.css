@@ -21,11 +21,13 @@ h1 {
     position: relative;
     height: 500px;
     margin: 4px;
+    padding-top: 120px;
 }
 .small {
     position: relative;
     height: 250px;
     margin: 0px;
+    padding-top: 50px;
 }
 row, col-md-4, col-md-6, col-md-12 {
     margin: 0;
